@@ -6,7 +6,7 @@
 
 **Plan. Schedule. Publish.**
 
-Ek hi jagah se apni poori social media chalayein — post likhein, schedule karein aur results dekhein, sab ek dashboard mein.
+Manage all your social media from one place. Write a post once, schedule it, and it goes live everywhere automatically.
 
 [![Live Site](https://img.shields.io/badge/Live-posthub.shorix.io-3DDC84?style=for-the-badge&logo=vercel&logoColor=white)](https://posthub.shorix.io)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -18,24 +18,27 @@ Ek hi jagah se apni poori social media chalayein — post likhein, schedule kare
 
 ---
 
-## PostHub Kya Hai? (Simple Words Mein)
+## What is PostHub?
 
-Sochiye aapki Instagram, Facebook, X (Twitter), LinkedIn, TikTok — sab ek jagah. **PostHub** wahi jagah hai.
+Think about your Instagram, Facebook, X (Twitter), LinkedIn and TikTok, all in one place. PostHub is that place.
 
-Aap ek post likhte hain, aur wo **16 social networks** par ek saath chali jati hai. Aap waqt set kar sakte hain ke post kab lage — chahe raat ho ya aap so rahe hon, PostHub khud publish kar deta hai. Phir batata hai ke post kaisa chala — kitne logon ne dekha, kitne ne like kiya.
+- You write a post **once**.
+- It goes out to **16 social networks** at the same time.
+- You choose a time for it to go live. Even while you sleep, PostHub publishes it for you.
+- After that, PostHub shows you how the post performed: who saw it, who liked it, and what worked.
 
-**Seedha sa kaam:** ek baar likho → har jagah lagao → results dekho.
+**In one line:** write once, publish everywhere, see the results.
 
 ## Features
 
-- **Cross-Posting** — Ek post likhein, 16 networks par ek saath publish (Instagram, Facebook, X, LinkedIn, TikTok, YouTube, Threads, Telegram, Discord, WhatsApp aur more)
-- **Scheduling & Calendar** — Posts pehle se schedule karein, drag & drop se calendar manage karein, queue khud bharta hai
-- **AI Captions** — AI se captions likhwayein, tone badlein, hashtags add karein
-- **Analytics** — Har account ka reach, engagement aur top posts dekhein
-- **Comment Inbox** — Sab platforms ke replies ek hi inbox mein, bina 6 apps khole
-- **Team Collaboration** — 25 tak team seats, drafts par comments, approvals, live preview
-- **Video Transcripts** — Video upload karein, captions/transcript milein
-- **Accounts** — 16 networks connect karein, koi alag API keys lene ki zaroorat nahi
+- **Cross-Posting** - Write one post and publish it to 16 networks at once (Instagram, Facebook, X, LinkedIn, TikTok, YouTube, Threads, Telegram, Discord, WhatsApp and more).
+- **Scheduling and Calendar** - Schedule posts ahead of time. Move posts with drag and drop. The queue fills empty slots for you.
+- **AI Captions** - Write captions with AI, change the tone, and add hashtags in seconds.
+- **Analytics** - See reach, engagement and top posts for every connected account.
+- **Comment Inbox** - Read and reply to comments from every platform in one inbox. No need to open six different apps.
+- **Team Collaboration** - Up to 25 team seats. Comment on drafts, approve posts, and keep each client in their own workspace.
+- **Video Transcripts** - Upload a video, get a transcript, and create captions for each platform.
+- **Account Connections** - Connect 16 networks. No paid API keys needed.
 
 ## Screenshots
 
@@ -80,7 +83,7 @@ Aap ek post likhte hain, aur wo **16 social networks** par ek saath chali jati h
 | Layer | Technology |
 |-------|-----------|
 | Frontend | Next.js 15, React 18, TypeScript, Tailwind CSS |
-| Backend | Next.js API routes (ek hi Node process) |
+| Backend | Next.js API routes (single Node process) |
 | Database | MySQL |
 | Auth | Email + OTP, Google OAuth, GitHub OAuth, JWT |
 | Email | Resend |
@@ -88,13 +91,13 @@ Aap ek post likhte hain, aur wo **16 social networks** par ek saath chali jati h
 | Charts | Recharts |
 | Deployment | Hostinger (Linux) |
 
-## Kyun PostHub?
+## Why PostHub?
 
-- **16 networks, ek dashboard** — 5 tabs aur spreadsheet ki zaroorat nahi
-- **10-day free trial** — credit card nahi chahiye
-- **AI assisted** — captions, best time aur queue khud manage hota hai
-- **Teams ke liye** — approvals aur client workspaces built-in
-- **PKR billing** — Pakistan ke liye local pricing
+- **16 networks, one dashboard** - no more five tabs and a spreadsheet.
+- **10-day free trial** - no credit card required.
+- **AI assisted** - captions, best-time suggestions and queue management are built in.
+- **Built for teams** - approvals and client workspaces included.
+- **PKR billing** - local pricing for Pakistan.
 
 ## Live
 
